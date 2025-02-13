@@ -1,54 +1,55 @@
-# C Dersleri*
+# C Courses*
 
->Ön Koşul
+>Prerequisite
 
-Bu dersin ön koşulu bulunmamaktadır. 
+There is no prerequisite for this course.
 
->Amaç-Hedef
+>Purpose-Goal
 
-Temel hedef kod yazma, algoritma kurma becerisi kazandırmaktır. Derste C Programlama dili gösterilmektedir. Zaman zaman C++ programlama dili ile farklarına değinilmektedir.
+The main goal is to gain the ability to write code and establish algorithms. The C programming language is shown in the course. From time to time, its differences with the C++ programming language are mentioned.
 
->Değerlendirme
+>Assessment
 
-Vize*30% + Final*50% + Uygulama*20%
+Midterm*30% + Final*50% + Application*20%
 
->Kurulması gereken programlar: 
+>Programs that need to be installed:
+
 1. Flowgorithm (http://www.flowgorithm.org/download/)
-2. Dev C/C++ (https://www.bloodshed.net/) 
-3. https://www.onlinegdb.com/ adresinden de online kod yazabilirsiniz
+2. Dev C/C++ (https://www.bloodshed.net/)
+3. You can also write code online at https://www.onlinegdb.com/
 
->İçerik:
+>Content:
 
-Hafta 1: Bilgisayar Programlamaya Giriş, Akış Diyagramları, Sözde Kod
+Week 1: Introduction to Computer Programming, Flow Charts, Pseudocode
 
-Hafta 2: Değişkenler, Veri Türleri, Operatörler, İşlem Önceliği
+Week 2: Variables, Data Types, Operators, Operation Precedence
 
-Hafta 3: Koşullar
+Week 3: Conditions
 
-Hafta 4: Döngüler
+Week 4: Loops
 
-Hafta 5: Koşul Döngü İçiçe Uygulamalar
+Week 5: Nested Applications in Conditional Loops
 
-Hafta 6: Diziler
+Week 6: Arrays
 
-Hafta 7: Vizeye Hazırlık
+Week 7: Preparation for Midterm
 
-Hafta 8: VİZE
+Week 8: MIDTERM
 
-Hafta 9: Fonksiyonlar
+Week 9: Functions
 
-Hafta 10: Pointer
+Week 10: Pointer
 
-Hafta 11: String Kütüphanesi
+Week 11: String Library
 
-Hafta 12: Dinamik Bellek Yönetimi
+Week 12: Dynamic Memory Management
 
-Hafta 13: Dosya İşlemleri
+Week 13: File Operations
 
-Hafta 14: Struct
+Week 14: Struct
 
-Hafta 15: Finale Hazırlık
+Week 15: Final Preparation
 
-Hafta 16: FİNAL
+Week 16: FINAL
 
-*(İçerik sürekli güncellenmektedir.)
+*(Content is constantly updated.)
